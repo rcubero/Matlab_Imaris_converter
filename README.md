@@ -5,6 +5,10 @@ https://github.com/PeterBeemiller/ImarisReader
 
 The extract_filaments_from_imaris script was written by Christoph Sommer (IOF, Institute of Science and Technology Austria).
 
+| :warning: WARNING          |
+|:-----------------------------------|
+| These scripts need a Windows machine |
+
 To run the scripts,
 - install Neuroland Morphology Converter (http://neuronland.net/NLMorphologyConverter/NLMorphologyConverter.html)
 - make sure to add `ImarisReader` to MATLAB path
