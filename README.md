@@ -2,6 +2,7 @@
 
 The ImarisReader scripts were taken from
 https://github.com/PeterBeemiller/ImarisReader
+We found that the MATLAB scripts run into problems when there are surfaces within the *.ims files, and fixed this in the scripts accordingly.
 
 The extract_filaments_from_imaris script was written by Christoph Sommer (IOF, Institute of Science and Technology Austria).
 
